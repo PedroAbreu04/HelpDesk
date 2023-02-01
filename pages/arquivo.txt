@@ -1,0 +1,4 @@
+1#Chamado feito pelo perfil do ADM#Criação Usuário#Chamado feito pelo perfil do ADM
+2#Chamado feito pelo perfil do USER#Impressora#Chamado feito pelo perfil do USER
+3#Chamado feito pelo perfil do Jose#Hardware#Chamado feito pelo perfil do Jose
+4#Chamado feito pelo perfil da Maria#Software#Chamado feito pelo perfil da Maria
