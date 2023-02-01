@@ -2,8 +2,6 @@
 
 > Status: Finalizado ✔️
 
-Projeto De chamada de probremas desenvolvido no curso da Domine Web (Udemy), com PHP
-
 <p>O projeto Help Desk, consiste em um sistema de abertura de chamados de problemas que normalmente são comuns em empresas</p>
 <p>Todos os chamados são gravados em um arquivo .txt, ultilizando funções nativas do PHP</p>
 
